@@ -9,7 +9,7 @@ System Design Notes By Sourabh Sethi
 
 ![Approach](./Basic/Approach.jpg?raw=true "Approach")
 
-## AutoComplete
+## Auto Complete
 
 ![AutoComplete](AutoComplete.jpg?raw=true "Auto Complete")
 
