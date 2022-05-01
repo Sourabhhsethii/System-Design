@@ -3,7 +3,7 @@ System Design Notes By Sourabh Sethi
 
 ## 16 Leadership Principles
 
-![AutoComplete](./Basic/16Leadership.jpg?raw=true "16 leadership principles")
+![Leadership](./Basic/16Leadership.jpg?raw=true "16 Leadership Principles")
 
 ## Approach To Solve System Design Problems 
 
